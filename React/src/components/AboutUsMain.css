@@ -1,0 +1,26 @@
+.abtus{
+    padding: 0 30%;
+    background-image: url('./AboutUs/bg.webp');
+    height: 113vh;
+    margin-top: 100px;
+    background-position: top;
+    background-size: cover;
+}
+.whyus{
+
+    background-color: white;
+    padding: 10px 20% 80px 20%;
+}
+.whyus h4:hover{
+    border:none;
+}
+.accordion h4:hover{
+border: none;
+}
+.accordion{
+    padding: 10px 7%;
+    margin-bottom: 40px;
+}
+.mission{
+    padding: 0 20%;
+}

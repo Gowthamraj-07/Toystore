@@ -1,0 +1,66 @@
+.accountsetting{
+    padding: 30px 10px;
+    text-align: center;
+    
+}
+.formm{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.formm input{
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 4px;
+    color: black;
+    padding: 8px;
+    margin-bottom: 20px;
+    
+}
+.form-grp{
+    margin: 35px;
+}
+.editbutton svg{
+    width: 25px;
+    height: 25px;
+}
+.editbutton{
+    margin-top: 40px;
+    border: 1px solid black;
+    border-radius: 4px;
+    width: 20%;
+    height: 50px;
+}
+.user-img svg{
+    width: 90px;
+    height: 90px;
+}
+.save-button{
+    margin-left: 39%;
+    width: 20%;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 4px;
+    background-color: #9AC791;
+}
+.name{
+    text-decoration: none;
+    color: black;
+}
+.name:hover{
+    text-decoration: none;
+    color: black;
+    border: 0;
+}
+.cancel{
+    width: 50px;
+    
+    color: black;
+    border: 0px solid black;
+    border-radius: 50px;
+    margin-left: 10px;
+}
+.cancel:hover{
+    background-color: #E95144;
+}
